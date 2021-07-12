@@ -11,7 +11,7 @@ Machine Learning Modeling of Materials with a Group-Subgroup Structure
 Prakriti Kayastha, Raghunathan Ramakrishnan
 https://doi.org/10.1088/2632-2153/abffe9
 
-
+---
   @article{kayastha2020machine,
   title={Machine Learning Modeling of Materials with a Group-Subgroup Structure},
   author={Kayastha, Prakriti and Ramakrishnan, Raghunathan},
@@ -22,6 +22,7 @@ https://doi.org/10.1088/2632-2153/abffe9
   year={2021},
   publisher={IOP Publishing}
   }
+---
 
 Last modified: 21 July 2021
 
