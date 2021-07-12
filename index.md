@@ -7,8 +7,8 @@ layout: default
  
 ### Supplementary data for
 
-Machine Learning Modeling of Materials with a Group-Subgroup Structure
-Prakriti Kayastha, Raghunathan Ramakrishnan
+Machine Learning Modeling of Materials with a Group-Subgroup Structure    
+Prakriti Kayastha, Raghunathan Ramakrishnan     
 https://doi.org/10.1088/2632-2153/abffe9
 
 ```
