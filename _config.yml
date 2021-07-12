@@ -1,6 +1,6 @@
-title: Pople
+title: FriezeRMQ1D
 logo: /assets/img/pople5.png
-description: A toolkit for ab initio thermochemistry
+description: FriezeRMQ1D Dataset for Group-Subgroup Machine Learning
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
