@@ -21,6 +21,8 @@ volume={2},
 number={3},
 pages={035035},
 year={2021},
+url={https://doi.org/10.1088/2632-2153/abffe9},
+doi={10.1088/2632-2153/abffe9},
 publisher={IOP Publishing}
 }
 ```
@@ -34,3 +36,17 @@ Last modified: 21 July 2021
 [7x1199_PBE0_AtmE.dat (137 kB)](data/7x1199_PBE0_AtmE.dat) Contains PBE0 atomization energies per-formula-unit per-atom (in eV/atom) for 8393 RMQ1D materials. Energies were calculated in a single point fashion on 7x1199_FriezeOpt.xyz (PBE geometries).
 
 [7x1199_fingerprint.dat (4.9 MB)](data/7x1199_fingerprint.dat) Contains Wyckoff-encoded fingerprint vectors for 8393 RMQ1D materials.
+
+### Raw FHI-AIMS Input/Output files for DFT calculations
+
+Input and output files of corresponding calculations are deposited in the NOMAD repository (https://dx.doi.org/10.17172/NOMAD/2021.02.13-1)
+```
+@misc{FriezeRMQ1D,
+title={FriezeRMQ1D: A Dataset of Ring-metal Q1D materials in seven crystallographic frieze groups},
+author={Kayastha, Prakriti and Ramakrishnan, Raghunathan},
+year={2021},
+doi={10.17172/NOMAD/2021.02.13-1},
+url={https://doi.org/10.17172/NOMAD/2021.02.13-1)},
+publisher={IOP Publishing}
+}
+```
