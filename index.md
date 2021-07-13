@@ -39,14 +39,14 @@ Last modified: 21 July 2021
 
 ### Raw FHI-AIMS Input/Output files for DFT calculations
 
-Input and output files of corresponding calculations are deposited in the NOMAD repository (https://dx.doi.org/10.17172/NOMAD/2021.02.13-1)
+Input and output files of corresponding calculations are deposited in the NOMAD repository [https://dx.doi.org/10.17172/NOMAD/2021.02.13-1](https://dx.doi.org/10.17172/NOMAD/2021.02.13-1)
+
 ```
 @misc{FriezeRMQ1D,
 title={FriezeRMQ1D: A Dataset of Ring-metal Q1D materials in seven crystallographic frieze groups},
 author={Kayastha, Prakriti and Ramakrishnan, Raghunathan},
 year={2021},
 doi={10.17172/NOMAD/2021.02.13-1},
-url={https://doi.org/10.17172/NOMAD/2021.02.13-1)},
-publisher={IOP Publishing}
+url={https://doi.org/10.17172/NOMAD/2021.02.13-1)}
 }
 ```
