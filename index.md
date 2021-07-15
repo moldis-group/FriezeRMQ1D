@@ -26,8 +26,6 @@ publisher={IOP Publishing}
 }
 ```
 
-Last modified: 21 July 2021
-
 [7x1199_FriezeOpt.xyz (6.3 MB)](data/7x1199_FriezeOpt.xyz) Contains atomic coordinates (in Å) of 8393 RMQ1D materials (7 Frieze groups, 11 Metals, 109 Rings) according to the unit cells of the frieze groups. The geometries were optimized for the Cu systems.
 
 [7x1199_P1subgroup.xyz (8.4 MB)](data/7x1199_P1subgroup.xyz) Contains atomic coordinates (in Å) of 8393 RMQ1D materials. Geometries of the larger 6 frieze groups were constructed with the P1 geometries placed at Wyckoff positions.
