@@ -54,5 +54,5 @@ url={https://doi.org/10.17172/NOMAD/2021.02.13-1)}
 Prakriti Kayastha, Raghunathan Ramakrishnan     
 The Journal of Chemical Physics, 154 (2021) 061102.    
 [Supplementary Material](https://aip.scitation.org/doi/suppl/10.1063/5.0041717/suppl_file/suppinfo.pdf)       
-[Data-mining on MolDis](https://moldis.tifrh.res.in/data/rmq1d)        
+[Data-mining on MolDis](https://moldis.tifrh.res.in/db/rmq1d)        
 [Raw input/output files on NOMAD](https://dx.doi.org/10.17172/NOMAD/2021.02.03-1) 
