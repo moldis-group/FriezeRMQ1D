@@ -34,7 +34,7 @@ publisher={IOP Publishing}
 
 [7x1199_fingerprint.dat (4.9 MB)](data/7x1199_fingerprint.dat) Contains Wyckoff-encoded fingerprint vectors for 8393 RMQ1D materials. The length of the 1-hot vectors are kept uniform by considering supercells for the smaller frieze groups. See Fig.3 in [Ref.1].
 
-### Raw FHI-AIMS Input/Output files for DFT calculations
+## Raw FHI-AIMS Input/Output files for DFT calculations
 
 Input and output files of corresponding calculations are deposited in the NOMAD repository [https://dx.doi.org/10.17172/NOMAD/2021.02.13-1](https://dx.doi.org/10.17172/NOMAD/2021.02.13-1)
 
@@ -48,7 +48,7 @@ url={https://doi.org/10.17172/NOMAD/2021.02.13-1)}
 }
 ```
 
-### Related work
+## Related work
 
 [High-Throughput Design of Peierls and Charge Density Wave Phases in Q1D Organometallic Materials](https://doi.org/10.1063/5.0041717) [Supplementary Material](https://aip.scitation.org/doi/suppl/10.1063/5.0041717/suppl_file/suppinfo.pdf) [Data-mining on MolDis](https://moldis.tifrh.res.in/data/rmq1d) [Raw input/output files on NOMAD](https://dx.doi.org/10.17172/NOMAD/2021.02.03-1)
 Prakriti Kayastha, Raghunathan Ramakrishnan
