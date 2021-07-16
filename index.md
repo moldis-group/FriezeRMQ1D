@@ -23,34 +23,11 @@ Prakriti Kayastha, Raghunathan Ramakrishnan
 Mach. Learn.: Sci. Technol. 2 (2021) 035035   
 [https://doi.org/10.1088/2632-2153/abffe9](https://doi.org/10.1088/2632-2153/abffe9)
 
-```
-@article{kayastha2020machine,
-title={Machine Learning Modeling of Materials with a Group-Subgroup Structure},
-author={Kayastha, Prakriti and Ramakrishnan, Raghunathan},
-journal={Machine Learning: Science and Technology},
-volume={2},
-number={3},
-pages={035035},
-year={2021},
-url={https://doi.org/10.1088/2632-2153/abffe9},
-doi={10.1088/2632-2153/abffe9},
-publisher={IOP Publishing}
-}
-```
 ***
 ## Raw FHI-AIMS Input/Output files for DFT calculations
 
 Input and output files of corresponding calculations are deposited in the NOMAD repository [https://dx.doi.org/10.17172/NOMAD/2021.02.13-1](https://dx.doi.org/10.17172/NOMAD/2021.02.13-1)
 
-```
-@misc{FriezeRMQ1D,
-title={FriezeRMQ1D: A Dataset of Ring-metal Q1D materials in seven crystallographic frieze groups},
-author={Kayastha, Prakriti and Ramakrishnan, Raghunathan},
-year={2021},
-doi={10.17172/NOMAD/2021.02.13-1},
-url={https://doi.org/10.17172/NOMAD/2021.02.13-1)}
-}
-```
 ***
 ## Related work
 
