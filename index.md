@@ -13,6 +13,7 @@ This dataset [Ref.1] consists of 8393 Q1D materials with 1199 ring-metal pairs i
 [7x1199_PBE0_AtmE.dat (137 kB)](data/7x1199_PBE0_AtmE.dat) Contains PBE0 atomization energies per-formula-unit per-atom (in eV/atom) for 8393 RMQ1D materials. Energies were calculated in a single point fashion on 7x1199_FriezeOpt.xyz (PBE geometries).
 
 [7x1199_fingerprint.dat (4.9 MB)](data/7x1199_fingerprint.dat) Contains Wyckoff-encoded fingerprint vectors for 8393 RMQ1D materials. The length of the 1-hot vectors are kept uniform by considering supercells for the smaller frieze groups. See Fig.3 in [Ref.1].
+***
 
 ## References
 
@@ -35,6 +36,7 @@ doi={10.1088/2632-2153/abffe9},
 publisher={IOP Publishing}
 }
 ```
+***
 ## Raw FHI-AIMS Input/Output files for DFT calculations
 
 Input and output files of corresponding calculations are deposited in the NOMAD repository [https://dx.doi.org/10.17172/NOMAD/2021.02.13-1](https://dx.doi.org/10.17172/NOMAD/2021.02.13-1)
@@ -48,6 +50,7 @@ doi={10.17172/NOMAD/2021.02.13-1},
 url={https://doi.org/10.17172/NOMAD/2021.02.13-1)}
 }
 ```
+***
 ## Related work
 
 [High-Throughput Design of Peierls and Charge Density Wave Phases in Q1D Organometallic Materials](https://doi.org/10.1063/5.0041717)        
