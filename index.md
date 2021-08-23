@@ -8,11 +8,11 @@ This dataset [Ref.1] consists of 8393 Q1D materials with 1199 ring-metal pairs i
 
 [7x1199_FriezeOpt.xyz (6.3 MB)](https://raw.githubusercontent.com/moldis-group/friezermq1d/main/data/7X1199_FriezeOpt.xyz) Contains atomic coordinates (in Å) of 8393 RMQ1D materials (7 Frieze groups, 11 Metals, 109 Rings) according to the unit cells of the frieze groups. The geometries were optimized for the Cu systems.
 
-[7x1199_P1subgroup.xyz (8.4 MB)](https://raw.githubusercontent.com/moldis-group/friezermq1d/main/data/7x1199_P1subgroup.xyz) Contains atomic coordinates (in Å) of 8393 RMQ1D materials. Geometries of the larger 6 frieze groups were constructed with the P1 geometries placed at Wyckoff positions.
+[7x1199_P1subgroup.xyz (8.4 MB)](https://raw.githubusercontent.com/moldis-group/friezermq1d/main/data/7X1199_P1subgroup.xyz) Contains atomic coordinates (in Å) of 8393 RMQ1D materials. Geometries of the larger 6 frieze groups were constructed with the P1 geometries placed at Wyckoff positions.
 
-[7x1199_PBE0_AtmE.dat (137 kB)](https://raw.githubusercontent.com/moldis-group/friezermq1d/main/data/7x1199_PBE0_AtmE.dat) Contains PBE0 atomization energies per-formula-unit per-atom (in eV/atom) for 8393 RMQ1D materials. Energies were calculated in a single point fashion on 7x1199_FriezeOpt.xyz (PBE geometries).
+[7x1199_PBE0_AtmE.dat (137 kB)](https://raw.githubusercontent.com/moldis-group/friezermq1d/main/data/7X1199_PBE0_AtmE.dat) Contains PBE0 atomization energies per-formula-unit per-atom (in eV/atom) for 8393 RMQ1D materials. Energies were calculated in a single point fashion on 7x1199_FriezeOpt.xyz (PBE geometries).
 
-[7x1199_fingerprint.dat (4.9 MB)](https://raw.githubusercontent.com/moldis-group/friezermq1d/main/data/7x1199_fingerprint.dat) Contains Wyckoff-encoded fingerprint vectors for 8393 RMQ1D materials. The length of the 1-hot vectors are kept uniform by considering supercells for the smaller frieze groups. See Fig.3 in [Ref.1].    
+[7x1199_fingerprint.dat (4.9 MB)](https://raw.githubusercontent.com/moldis-group/friezermq1d/main/data/7X1199_fingerprint.dat) Contains Wyckoff-encoded fingerprint vectors for 8393 RMQ1D materials. The length of the 1-hot vectors are kept uniform by considering supercells for the smaller frieze groups. See Fig.3 in [Ref.1].    
 
 ***
 
